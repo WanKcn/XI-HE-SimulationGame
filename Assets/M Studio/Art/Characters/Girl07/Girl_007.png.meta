@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 48c266ae0734348198694bc6282c5264
+guid: 340ef8e08b58d4f6ba31026bdba57799
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1007033402911347040
-    second: Girl_002_0
+      213: 581572836051329080
+    second: Girl_007_0
   - first:
-      213: -7454507717957060860
-    second: Girl_002_1
+      213: 9176144037228366374
+    second: Girl_007_1
   - first:
-      213: 8605032730845587229
-    second: Girl_002_2
+      213: -9208070004961853359
+    second: Girl_007_2
   - first:
-      213: 5621578113793047111
-    second: Girl_002_3
+      213: 7439485525942677818
+    second: Girl_007_3
   - first:
-      213: 5469757632783129874
-    second: Girl_002_4
+      213: 4991106544943131082
+    second: Girl_007_4
   - first:
-      213: 7267470104158287239
-    second: Girl_002_5
+      213: -368303228313267229
+    second: Girl_007_5
   - first:
-      213: -8329028324209874325
-    second: Girl_002_6
+      213: -6088754439506672774
+    second: Girl_007_6
   - first:
-      213: 8905594419263220250
-    second: Girl_002_7
+      213: -736772025641213969
+    second: Girl_007_7
   - first:
-      213: 5617449160722666465
-    second: Girl_002_8
+      213: -5523061504722214877
+    second: Girl_007_8
   - first:
-      213: -3637090087492974939
-    second: Girl_002_9
+      213: -1123694059358941450
+    second: Girl_007_9
   - first:
-      213: 9098054255047407673
-    second: Girl_002_10
+      213: 7032491380402735592
+    second: Girl_007_10
   - first:
-      213: 9111864993045842636
-    second: Girl_002_11
+      213: -1540429840083883858
+    second: Girl_007_11
   - first:
-      213: 8411552567520241075
-    second: Girl_002_12
+      213: -7483173394097238220
+    second: Girl_007_12
   - first:
-      213: 429938810137952971
-    second: Girl_002_13
+      213: 1653588024162815910
+    second: Girl_007_13
   - first:
-      213: 4213578002167244605
-    second: Girl_002_14
+      213: -3631126436340850187
+    second: Girl_007_14
   - first:
-      213: -5491415549158955605
-    second: Girl_002_15
+      213: -5016782225501621467
+    second: Girl_007_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -140,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Girl_002_0
+      name: Girl_007_0
       rect:
         serializedVersion: 2
         x: 0
@@ -154,14 +154,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 061db716b83b9fd00800000000000000
-      internalID: 1007033402911347040
+      spriteID: 8302bdfb969221800800000000000000
+      internalID: 581572836051329080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_1
+      name: Girl_007_1
       rect:
         serializedVersion: 2
         x: 40
@@ -175,14 +175,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 407f2c7e9b44c8890800000000000000
-      internalID: -7454507717957060860
+      spriteID: 62ac0d27266385f70800000000000000
+      internalID: 9176144037228366374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_2
+      name: Girl_007_2
       rect:
         serializedVersion: 2
         x: 80
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1729a26da73b6770800000000000000
-      internalID: 8605032730845587229
+      spriteID: 150c15fed1d563080800000000000000
+      internalID: -9208070004961853359
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_3
+      name: Girl_007_3
       rect:
         serializedVersion: 2
         x: 120
@@ -217,14 +217,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74abeb5928bd30e40800000000000000
-      internalID: 5621578113793047111
+      spriteID: a3139757bac5e3760800000000000000
+      internalID: 7439485525942677818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_4
+      name: Girl_007_4
       rect:
         serializedVersion: 2
         x: 0
@@ -238,14 +238,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21d1585469b78eb40800000000000000
-      internalID: 5469757632783129874
+      spriteID: ac9667765f8f34540800000000000000
+      internalID: 4991106544943131082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_5
+      name: Girl_007_5
       rect:
         serializedVersion: 2
         x: 40
@@ -259,14 +259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78530261e8d3bd460800000000000000
-      internalID: 7267470104158287239
+      spriteID: 3e312ca4a2683eaf0800000000000000
+      internalID: -368303228313267229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_6
+      name: Girl_007_6
       rect:
         serializedVersion: 2
         x: 80
@@ -280,14 +280,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6aad434ed8596c80800000000000000
-      internalID: -8329028324209874325
+      spriteID: a734f9cc816608ba0800000000000000
+      internalID: -6088754439506672774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_7
+      name: Girl_007_7
       rect:
         serializedVersion: 2
         x: 120
@@ -301,14 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1aa2e1c0f6079b70800000000000000
-      internalID: 8905594419263220250
+      spriteID: fefd53b0fb576c5f0800000000000000
+      internalID: -736772025641213969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_8
+      name: Girl_007_8
       rect:
         serializedVersion: 2
         x: 0
@@ -322,14 +322,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e3d0b8cf3035fd40800000000000000
-      internalID: 5617449160722666465
+      spriteID: 320e56ae2d42a53b0800000000000000
+      internalID: -5523061504722214877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_9
+      name: Girl_007_9
       rect:
         serializedVersion: 2
         x: 40
@@ -343,14 +343,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a603e6e5d5768dc0800000000000000
-      internalID: -3637090087492974939
+      spriteID: 6fe81b3e436d760f0800000000000000
+      internalID: -1123694059358941450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_10
+      name: Girl_007_10
       rect:
         serializedVersion: 2
         x: 80
@@ -364,14 +364,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 938f4533428c24e70800000000000000
-      internalID: 9098054255047407673
+      spriteID: 8e9c6e696ad689160800000000000000
+      internalID: 7032491380402735592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_11
+      name: Girl_007_11
       rect:
         serializedVersion: 2
         x: 120
@@ -385,14 +385,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cca80d73fe8d37e70800000000000000
-      internalID: 9111864993045842636
+      spriteID: ea86364d83b4f9ae0800000000000000
+      internalID: -1540429840083883858
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_12
+      name: Girl_007_12
       rect:
         serializedVersion: 2
         x: 0
@@ -406,14 +406,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b5a19c6e76dbb470800000000000000
-      internalID: 8411552567520241075
+      spriteID: 43f0e24127d662890800000000000000
+      internalID: -7483173394097238220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_13
+      name: Girl_007_13
       rect:
         serializedVersion: 2
         x: 40
@@ -427,14 +427,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc24d65e11377f500800000000000000
-      internalID: 429938810137952971
+      spriteID: 6af80110c89b2f610800000000000000
+      internalID: 1653588024162815910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_14
+      name: Girl_007_14
       rect:
         serializedVersion: 2
         x: 80
@@ -448,14 +448,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3724945ed2a97a30800000000000000
-      internalID: 4213578002167244605
+      spriteID: 5f1af53aeb5ab9dc0800000000000000
+      internalID: -3631126436340850187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Girl_002_15
+      name: Girl_007_15
       rect:
         serializedVersion: 2
         x: 120
@@ -469,8 +469,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba5e25e17a29ac3b0800000000000000
-      internalID: -5491415549158955605
+      spriteID: 5237b7d552fc06ab0800000000000000
+      internalID: -5016782225501621467
       vertices: []
       indices: 
       edges: []
@@ -486,22 +486,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Girl_002_6: -8329028324209874325
-      Girl_002_3: 5621578113793047111
-      Girl_002_7: 8905594419263220250
-      Girl_002_13: 429938810137952971
-      Girl_002_15: -5491415549158955605
-      Girl_002_8: 5617449160722666465
-      Girl_002_4: 5469757632783129874
-      Girl_002_11: 9111864993045842636
-      Girl_002_14: 4213578002167244605
-      Girl_002_9: -3637090087492974939
-      Girl_002_0: 1007033402911347040
-      Girl_002_1: -7454507717957060860
-      Girl_002_2: 8605032730845587229
-      Girl_002_5: 7267470104158287239
-      Girl_002_10: 9098054255047407673
-      Girl_002_12: 8411552567520241075
+      Girl_007_11: -1540429840083883858
+      Girl_007_12: -7483173394097238220
+      Girl_007_10: 7032491380402735592
+      Girl_007_1: 9176144037228366374
+      Girl_007_14: -3631126436340850187
+      Girl_007_15: -5016782225501621467
+      Girl_007_3: 7439485525942677818
+      Girl_007_6: -6088754439506672774
+      Girl_007_5: -368303228313267229
+      Girl_007_4: 4991106544943131082
+      Girl_007_9: -1123694059358941450
+      Girl_007_2: -9208070004961853359
+      Girl_007_7: -736772025641213969
+      Girl_007_13: 1653588024162815910
+      Girl_007_0: 581572836051329080
+      Girl_007_8: -5523061504722214877
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
